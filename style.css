@@ -1,0 +1,30 @@
+#picture {
+   
+    height: 300px;
+    width: 300px ;
+    border: 5px solid blue
+}
+
+
+body {
+    background-color: black;
+}
+h1 {
+    color:aliceblue ;
+   padding: 0% ;
+   border: 5px solid violet ;
+   width: 60% ;
+   
+ margin-left: 18%;
+    text-align: center;
+}
+div{
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.p1{
+    height:200px ;
+    width: 200px ;
+}
